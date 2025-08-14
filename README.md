@@ -5498,7 +5498,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Ishita Gupta" />
                     <br />
                     <sub>
-                        <b>Syed Shuaib</b>
+                        <b>Ishita Gupta</b>
                     </sub>
                 </a>
             </td>
